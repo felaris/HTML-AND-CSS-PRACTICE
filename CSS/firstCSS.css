@@ -1,6 +1,27 @@
 p {
-    color: yellow;
+    color: rgb(8, 100, 219);
     font-size: 16px;
     font-style: arial;
     background-color: grey;
+}
+
+h1 {
+    color: black;
+    font-size: 16px;
+    font-style: arial;
+    background-color: grey;
+}
+
+body {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-style: arial;
+    background-color: grey;
+}
+
+footer {
+    color: rgba(0, 0, 0, 0.884);
+    font-size: 16px;
+    font-style: arial;
+    background-color: gold;
 }
